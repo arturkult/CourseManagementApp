@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0cdacfc_002D353a_002D4b40_002D95d2_002D2a434e1442c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_PassValidObject_CreateCalledOnce" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_ValidCommand_ValidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_TooShortName_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_TooLongName_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_TooLongDescription_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_TooShortDescription_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_TooLongTopicName_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_NoTopics_InvalidResultReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9BD8A91B-B241-4F13-BB86-F071BD6D4957::net7.0::Application.UnitTests.Courses.AddCourse.AddCourseValidatorTests.Validate_InvalidTopicsOrder_InvalidResultReturned&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
